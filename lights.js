@@ -23,7 +23,7 @@ $(document).ready(function() {
                sec3--;
                if(sec3 < 0){$('.green').css("background-color", " #cfffcc");
                    $(".sec3").html("");
-                   sec1=10;}
+                   sec1=10;sec2=2;sec3=15;}
                else if(sec3 <3 ){
                 $('.green').fadeIn(500).fadeOut(500).fadeIn(500);}
            }
