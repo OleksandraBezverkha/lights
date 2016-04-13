@@ -1,4 +1,7 @@
-.red{border-radius: 50%;width: 100px;height:100px;background-color: #ffbcad;}
-.yellow{border-radius: 50%;width: 100px;height:100px;background-color: #fffdcb;}
-.green{border-radius: 50%;width: 100px;height:100px;background-color: #cfffcc;}
-.light{width:200px;height:500px;margin-left: 50%}
+.red,.yellow,.green{border-radius: 50%;width: 100px;height:100px;margin-top:10px;}
+.red{background-color: #ffbcad;}
+.yellow{background-color: #fffdcb;}
+.green{background-color: #cfffcc;}
+.light{width:200px;height:500px;color: white;margin-left: auto;
+    margin-right: auto;margin-top: 10%;}
+.sec1,.sec2,.sec3{padding-top:45px;padding-left:45px;}

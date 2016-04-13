@@ -25,7 +25,7 @@ $(document).ready(function() {
                    $(".sec3").html("");
                    sec1=10;sec2=2;sec3=15;}
                else if(sec3 <3 ){
-                $('.green').fadeIn(500).fadeOut(500).fadeIn(500);}
+                $('.green').fadeOut(500).fadeIn(500);}
            }
            else {
            $('.yellow').css("background-color", " yellow");
