@@ -1,10 +1,10 @@
 .red,.yellow,.green{border-radius: 50%;width: 100px;height:100px;margin-bottom:10px;display:table;}
 .red{background-color: #ffbcad;}
-.yellow{background-color: #fffdcb;}
-.green{background-color: #cfffcc;}
+.yellow{background-color: #fffc9b;}
+.green{background-color: #b3ff9e;}
 .light{width:200px;height:500px;margin-left: auto;
     margin-right: auto;margin-top: 10%;}
 p{color: white;font-size: 200%;text-align:center;vertical-align: middle;
  }
-body{background-color: #3cb8ff
+body{background-color: #23678a
 }

@@ -12,16 +12,16 @@ $(document).ready(function() {
        if (sec1 < 0) {
            if (sec2 < 0) {
                red.css("background-color", " #ffbcad");
-              yellow.css("background-color", " #fffdcb");
+              yellow.css("background-color", " #fffc9b");
                green.css("background-color", " #2bcd1e");
                t2.html("");
                t3.html('<p>'+sec3+'</p>');
                sec3--;
-               if(sec3 < 0){green.css("background-color", " #cfffcc");
+               if(sec3 < 0){green.css("background-color", " #b3ff9e");
                    t3.html("");
                    sec1=10;sec2=2;sec3=15;}
                else if(sec3 <3 ){
-                green.animate({ 'backgroundColor': '#cfffcc' }, "slow"); }
+                green.animate({ 'backgroundColor': '#b3ff9e' }, "slow"); }
            }
            else {
            yellow.css("background-color", " yellow");

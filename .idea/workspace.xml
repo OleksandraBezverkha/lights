@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4b14ede4-0301-42aa-9fc9-5129bff9a52c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light.css" afterPath="$PROJECT_DIR$/light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lights.html" afterPath="$PROJECT_DIR$/lights.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lights.js" afterPath="$PROJECT_DIR$/lights.js" />
     </list>
     <ignored path="lights.iws" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="lights.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lights.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -38,8 +37,8 @@
       <file leaf-file-name="lights.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lights.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3531218">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.2917093">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -49,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/light.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.875">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="32" />
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -344,26 +343,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/light.css">
+    <entry file="file://$PROJECT_DIR$/lights.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="32" />
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lights.html">
+    <entry file="file://$PROJECT_DIR$/light.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lights.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3531218">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.2917093">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
           <folding />
         </state>
       </provider>
