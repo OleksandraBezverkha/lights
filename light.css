@@ -1,7 +1,10 @@
-.red,.yellow,.green{border-radius: 50%;width: 100px;height:100px;margin-top:10px;}
+.red,.yellow,.green{border-radius: 50%;width: 100px;height:100px;margin-bottom:10px;display:table;}
 .red{background-color: #ffbcad;}
 .yellow{background-color: #fffdcb;}
 .green{background-color: #cfffcc;}
-.light{width:200px;height:500px;color: white;margin-left: auto;
+.light{width:200px;height:500px;margin-left: auto;
     margin-right: auto;margin-top: 10%;}
-.sec1,.sec2,.sec3{padding-top:45px;padding-left:45px;}
+p{color: white;font-size: 200%;text-align:center;vertical-align: middle;
+ }
+body{background-color: #3cb8ff
+}
